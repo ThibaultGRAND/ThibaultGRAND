@@ -10,11 +10,6 @@
     <img src="https://profile-counter.glitch.me/ThibaultGRAND/count.svg" />
 </p>
 
-```js
-BTC: bc1qxc4h7g0humscvm0gzqp576mwgrpst2wcs8cpwf;
-```
-
-
 
 🔭 I’m currently working on wemajin-project
 - 🌱 I’m currently learning php
